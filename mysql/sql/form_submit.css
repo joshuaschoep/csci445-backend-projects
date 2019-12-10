@@ -1,0 +1,12 @@
+form{
+    display: block;
+    padding: 20px;
+}
+
+h4{
+    color: green;
+}
+
+section.content{
+	padding: 40px;
+}

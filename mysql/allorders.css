@@ -1,0 +1,7 @@
+.content td{
+    border: 1px solid black;
+}
+
+.content table{
+    margin: auto;
+}

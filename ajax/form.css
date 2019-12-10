@@ -1,0 +1,22 @@
+fieldset{
+	display: block;
+	overflow: hidden;
+}
+
+input{
+	width: 15vw;
+	padding: 10px;
+}
+
+input[type="radio"]{
+	width: auto;
+}
+
+#itempicture{
+    float: right;
+}
+
+.select-dropdown a:hover{
+	background-color: #eee;
+	color: green;
+}
